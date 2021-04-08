@@ -6,7 +6,7 @@ I am a girl programmer/coder who is committed to becoming an all-round academic.
 If you have similar interests as me, feel free to send me an email for a more in-depth conversation.
 
 <img align="left" src="https://github.com/zishanqin/github-stats/blob/master/generated/overview.svg">
-<img align="right" src="https://github.com/zishanqin/github-stats/blob/master/generated/languages.svg">
+<img align="left" src="https://github.com/zishanqin/github-stats/blob/master/generated/languages.svg">
 <!--
 **zishanqin/zishanqin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
