@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am a girl programmer/coder who is committed to becoming an all-round academic. 
-- I am most comfortable in C++, but I will not give up on my pursuit of advancing in other languages. 
+- I am most comfortable with programming in C++, but I will not give up on my pursuit of advancing in other languages. 
 - Currently studying in the field of artificial intelligence and machine learning, I enjoy neural network related optimisation and am keen to participate in various programming competitions. 
 - In addition to computing, I am also a well-trained musician and dancer with a passion for playing, singing, choreography and dance performance. <br>
 If you have similar interests as me, feel free to send me an email for a more in-depth conversation.
