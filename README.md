@@ -3,7 +3,7 @@ I am a girl programmer/coder who is committed to becoming an all-round academic.
 - I am most comfortable with programming in C++, but I will not give up on my pursuit of advancing in other languages. 
 - Currently studying in the field of artificial intelligence and machine learning, I enjoy neural network related optimisation and am keen to participate in various programming competitions. 
 - In addition to computing, I am also a well-trained musician and dancer with a passion for playing, singing, choreography and dance performance. <br>
-If you have similar interests as me, feel free to send me an email for a more in-depth conversation.
+If you have similar interests as me, feel free to create an issue or start a discussion (don't forget to @me) for a more in-depth conversation.
 
 <img align="left" src="https://github.com/zishanqin/github-stats/blob/master/generated/overview.svg">
 <img align="left" src="https://github.com/zishanqin/github-stats/blob/master/generated/languages.svg">
