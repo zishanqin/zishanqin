@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a girl programmer/coder who is committed to becoming an all-round academic. 
 - I am an active competitive programmers. 
-- I enjoy programming in C++ and Python, and can also code in Java, Haskell, Assembly and so on. 
+- I enjoy programming in C++ and Python, and can also code in Java, Haskell, Ada, Assembly and so on. 
 - I am currently studying in the field of AIML, I enjoy DL and NN related optimisation questions.
 - In addition to computing-related stuff, I am also a well-trained musician and dancer. <br>
 Feel free to create an issue or start a discussion (@me) for a more in-depth conversation.
