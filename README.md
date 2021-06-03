@@ -4,6 +4,7 @@ I am a girl programmer who is committed to becoming an all-round academic.
 - I enjoy programming in C++ and Python, and can also code in Java, Haskell, Ada, Assembly and so on. 
 - I am currently studying in the field of AIML, I enjoy DL and NN related optimisation questions.
 - In addition to computing-related stuff, I am also a well-trained musician and dancer. <br>
+
 Feel free to create an issue or start a discussion (@me) for a more in-depth conversation.
 
 <img align="left" src="https://github.com/zishanqin/github-stats/blob/master/generated/overview.svg">
