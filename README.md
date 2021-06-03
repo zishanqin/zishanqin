@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a girl programmer/coder who is committed to becoming an all-round academic. 
+I am a girl programmer who is committed to becoming an all-round academic. 
 - I am an active competitive programmers. 
 - I enjoy programming in C++ and Python, and can also code in Java, Haskell, Ada, Assembly and so on. 
 - I am currently studying in the field of AIML, I enjoy DL and NN related optimisation questions.
