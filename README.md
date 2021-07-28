@@ -9,6 +9,7 @@ Feel free to create an issue or start a discussion (@me) for a more in-depth con
 
 <img align="left" src="https://github.com/zishanqin/github-stats/blob/master/generated/overview.svg">
 <img align="left" src="https://github.com/zishanqin/github-stats/blob/master/generated/languages.svg">
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="taylor-qin-100957200" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/taylor-qin-100957200?trk=profile-badge">Taylor Qin</a></div>
               
 <!--
