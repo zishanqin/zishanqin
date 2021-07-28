@@ -9,8 +9,8 @@ Feel free to create an issue or start a discussion (@me) for a more in-depth con
 
 <img align="left" src="https://github.com/zishanqin/github-stats/blob/master/generated/overview.svg">
 <img align="left" src="https://github.com/zishanqin/github-stats/blob/master/generated/languages.svg">
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/taylor-qin-100957200)
-&nbsp;
+
+![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/taylor-qin-100957200)
               
               
 <!--
