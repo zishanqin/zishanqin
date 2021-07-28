@@ -9,8 +9,8 @@ Feel free to create an issue or start a discussion (@me) for a more in-depth con
 
 <img align="left" src="https://github.com/zishanqin/github-stats/blob/master/generated/overview.svg">
 <img align="left" src="https://github.com/zishanqin/github-stats/blob/master/generated/languages.svg">
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="taylor-qin-100957200" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/taylor-qin-100957200?trk=profile-badge">Taylor Qin</a></div>
+<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://au.linkedin.com/in/taylor-qin-100957200?trk=profile-badge">
+<!-- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="taylor-qin-100957200" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/taylor-qin-100957200?trk=profile-badge">Taylor Qin</a></div> -->
               
               
 <!--
