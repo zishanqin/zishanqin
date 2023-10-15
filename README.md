@@ -1,6 +1,5 @@
 ### Hi there 👋
 I am a programmer who is committed to becoming an all-round researcher. Some fun facts about me:
-- I am an emoji freaks. 
 - I enjoy programming in C++ and Python, and can also code in Java, Haskell, Ada, Assembly and so on. 
 - Before starting my first degree in CS, I studied Pharmaceutics, with lots of chemistry and physics involved.
 - During my undergraduate studies, I took ML & AI & TCS as my specializations, and mathematics as my minor.
