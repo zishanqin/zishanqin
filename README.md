@@ -1,14 +1,15 @@
 ### Hi there 👋
-I am a programmer who is committed to becoming an all-round researcher. Some fun facts about me:
-- I enjoy programming in C++ and Python, and can also code in Java, Haskell, Ada, Assembly and so on. 
-- Before starting my first degree in CS, I studied Pharmaceutics, with lots of chemistry and physics involved.
-- During my undergraduate studies, I took ML & AI & TCS as my specializations, and mathematics as my minor.
-- My research interests primarily lie in 3D vision, but I had worked on a variety of projects in other areas.
-- I am always open to working on interesting research projects, in collaboration with people.
-- Besides research, I also enjoy tutoring computer science courses, with extensive relavant experience at ANU. 
+I am a PhD student at UNSW. Some facts about me:
+- I enjoy programming in C++ and Python (with a background in competitive programming), and am also proficient in Java, Haskell, Ada, Assembly, and other languages.
+- Before pursuing computer science, I studied Pharmaceutics, where I was exposed to a substantial amount of chemistry and physics.
+- During my undergraduate studies, I specialized in Machine Learning, Artificial Intelligence, and Theoretical Computer Science, with a minor in Mathematics.
+- I completed both my Bachelor's and Master's degrees at ANU ahead of schedule, without relying on external credits, and graduated as the fastest student in each program.
+- My primary research interests lie in 3D vision, though I have worked on a variety of projects across different areas.
+- Beyond research, I enjoy tutoring computer science courses and have extensive teaching experience from my time at ANU.
+- Outside academia, I’m passionate about sports—especially bouldering (indoor climbing) and snowboarding.
 
 
-You are welcome to visit [my personal website](http://zishanqin.github.io). Feel free to create an issue or start a conversation with me.
+You are welcome to visit [my personal website](http://zishanqin.github.io). I'm always happy to chat—feel free to reach out anytime!
 
 <img align="left" src="https://github.com/zishanqin/github-stats/blob/master/generated/overview.svg">
 <img align="left" src="https://github.com/zishanqin/github-stats/blob/master/generated/languages.svg">
