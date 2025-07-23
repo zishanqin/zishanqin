@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a PhD student at UNSW. Some facts about me:
 - I enjoy programming in C++ and Python (with a background in competitive programming), and am also proficient in Java, Haskell, Ada, Assembly, and other languages.
-- Before pursuing computer science, I studied Pharmaceutics, where I was exposed to a substantial amount of chemistry and physics.
+- Before pursuing computer science, I studied Pharmaceutics, where I was exposed to a substantial amount of chemistry, biology and physics.
 - During my undergraduate studies, I specialized in Machine Learning, Artificial Intelligence, and Theoretical Computer Science, with a minor in Mathematics.
 - I completed both my Bachelor's and Master's degrees at ANU ahead of schedule, without relying on external credits, and graduated as the fastest student in each program.
 - My primary research interests lie in 3D vision, though I have worked on a variety of projects across different areas.
